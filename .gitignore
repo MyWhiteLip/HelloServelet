@@ -1,0 +1,6 @@
+# 项目排除路径
+/out/
+/out/artifacts/
+/web/
+/web/WEB-INF/
+/web/WEB-INF/classes/
